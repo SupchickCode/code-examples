@@ -53,7 +53,7 @@ class Teaser extends Model
     }
 
     /**
-     * Make data for select options.
+     * Make data for select options (Nova stuff).
      *
      * @return array
      */
